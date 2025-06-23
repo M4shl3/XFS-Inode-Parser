@@ -18,7 +18,20 @@ A forensic utility to scan and analyze **XFS filesystem images** for inode metad
 - 📂 Detects short-form directory inodes (inlined entries)
 - 🧾 Optional integration with `xfs_ncheck` for filename mapping
 
+
+
+> 🟡 **This tool is currently in _beta_**.  
+> Functionality is still being tested and refined. Expect updates, improvements, and possibly breaking changes in future versions.  
+
+
+
+
 ---
+
+
+
+
+
 
 ## 📖 Usage
 
