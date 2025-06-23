@@ -16,7 +16,6 @@ A forensic utility to scan and analyze **XFS filesystem images** for inode metad
   - Access/modification/change times
 - ⚰️ Identifies likely deleted inodes (based on type and timestamps)
 - 📂 Detects short-form directory inodes (inlined entries)
-- 🧾 Optional integration with `xfs_ncheck` for filename mapping
 ---
 
 
