@@ -29,8 +29,8 @@ A forensic utility to scan and analyze **XFS filesystem images** for inode metad
 
 | Option              | Description                                                                                       |
 | ------------------- | ------------------------------------------------------------------------------------------------- |
-| `-h`, `--help`      | Show help message and exit                                                                        |
-| `-a`, `--allocated` | List only **allocated inodes** — i.e., inodes that have a known file type and valid timestamps    |
-| `-d`, `--deleted`   | List only **probably deleted inodes** — identified by missing file type but with valid timestamps |
-| `-s`, `--shortform` | Scan for **short-form directory entries** — small directory entries stored directly in the inode  |
+| `-h` | Show help message and exit                                                                        |
+| `-a` | List only **allocated inodes** — i.e., inodes that have a known file type and valid timestamps    |
+| `-d` | List only **probably deleted inodes** — identified by missing file type but with valid timestamps |
+| `-s` | Scan for **short-form directory entries** — small directory entries stored directly in the inode  |
 
