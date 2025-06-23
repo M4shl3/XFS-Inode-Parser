@@ -24,8 +24,9 @@ A forensic utility to scan and analyze **XFS filesystem images** for inode metad
 
 ```bash
 ./xfs_inode_scanner.py [-h] [-a | -d | -s] image_path
-
+```
 ---
+
 | Option              | Description                                                                                       |
 | ------------------- | ------------------------------------------------------------------------------------------------- |
 | `-h`, `--help`      | Show help message and exit                                                                        |
